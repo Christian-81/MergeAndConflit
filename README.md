@@ -1,4 +1,4 @@
-# MergeAndConflit
+REMOTE
 Hello world
 Hello Git
 Hello Github
