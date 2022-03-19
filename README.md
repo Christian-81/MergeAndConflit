@@ -1,4 +1,4 @@
-# MergeAndConflit
+LOCAL
 Hello world
 Hello Git
 Hello Github
